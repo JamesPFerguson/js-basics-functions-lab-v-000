@@ -4,8 +4,12 @@ distanceFromHqInBlocks() {
 }
 
 distanceFromHqInFeet() {
-  
+
 }
 distanceTravelledInFeet() {
-  
+
+}
+
+calculatesFarePrice() {
+
 }
