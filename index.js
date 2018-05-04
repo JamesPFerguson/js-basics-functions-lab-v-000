@@ -10,6 +10,6 @@ distanceTravelledInFeet() {
 
 }
 
-calculatesFarePrice() {
+calculatesFarePrice(start, destination) {
 
 }
