@@ -2,3 +2,10 @@
 distanceFromHqInBlocks() {
 
 }
+
+distanceFromHqInFeet() {
+  
+}
+distanceTravelledInFeet() {
+  
+}
